@@ -1,0 +1,5 @@
+{
+  "name": "Elite Tic-Tac-Toe",
+  "description": "A premium, responsive Tic-Tac-Toe game featuring a smart Minimax AI, multiple game modes, and a sleek modern UI built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
